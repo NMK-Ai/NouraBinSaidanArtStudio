@@ -1,0 +1,107 @@
+{
+  "categories_ar": {
+    "mural": "جداريات",
+    "painting": "لوحات",
+    "public_project": "مشاريع عامة",
+    "collaboration": "تعاونات"
+  },
+  "categories_en": {
+    "mural": "Murals",
+    "painting": "Paintings",
+    "public_project": "Public Projects",
+    "collaboration": "Collaborations"
+  },
+  "artworks": [
+    {
+      "id": "aw-boulevard-16",
+      "title_ar": "جداريات بوليفارد سيتي",
+      "title_en": "City Boulevard Murals",
+      "category": "mural",
+      "year": "",
+      "description_ar": "سلسلة من الجداريات الواسعة لشخصيات بارزة ضمن «City Walk» في بوليفارد الرياض. من أشهر أعمالها وأكثرها التقط لها الزوّار صوراً.",
+      "description_en": "A series of large-scale murals of prominent figures at City Walk, Riyadh Boulevard. Among her most famous and most-photographed works.",
+      "image": "boulevard_mural",
+      "source_id": "src-independent",
+      "featured": true,
+      "placeholder_color": "Bourbon"
+    },
+    {
+      "id": "aw-jax-heritage",
+      "title_ar": "جدارية حي جاكس — الهوية والتراث",
+      "title_en": "JAX District Mural — Heritage & Identity",
+      "category": "mural",
+      "year": "2024",
+      "description_ar": "جدارية ضمن حي جاكس بالدرعية تعكس الهوية والتراث السعودي، وهي التي زارها تيم كوك في ديسمبر 2024.",
+      "description_en": "A mural at JAX District, Diriyah reflecting Saudi heritage and identity — the mural visited by Tim Cook in December 2024.",
+      "image": "artwork_large_work",
+      "source_id": "src-timcook",
+      "featured": true,
+      "placeholder_color": "Terracotta"
+    },
+    {
+      "id": "aw-najdi-flower",
+      "title_ar": "سلسلة الزهرة النجدية",
+      "title_en": "Najdi Flower Series",
+      "category": "painting",
+      "year": "",
+      "description_ar": "عنصر بصري متكرر في أعمال نورة، تحتفي بالزهرة النجدية كرمز للهوية المحلية.",
+      "description_en": "A recurring visual motif in Noura's work, celebrating the Najdi flower as a symbol of local identity.",
+      "image": "artwork_mural_painting",
+      "source_id": "src-instagram",
+      "featured": true,
+      "placeholder_color": "Olive"
+    },
+    {
+      "id": "aw-mural-process",
+      "title_ar": "ورشة الجداريات — أثناء التنفيذ",
+      "title_en": "Mural Workshop — In Progress",
+      "category": "public_project",
+      "year": "",
+      "description_ar": "تنفّذ نورة جدارياتها واسعة النطاق باستخدام روافع ومعدّات متخصصة، محوّلةً الجدران إلى أعمال فنية عامة.",
+      "description_en": "Noura executes her large-scale murals using lifts and specialized equipment, turning walls into public artworks.",
+      "image": "boulevard_mural",
+      "source_id": "src-arabnews",
+      "featured": false,
+      "placeholder_color": "Sage"
+    },
+    {
+      "id": "aw-neom",
+      "title_ar": "أعمال في إطار نيوم",
+      "title_en": "Works featured with NEOM",
+      "category": "collaboration",
+      "year": "",
+      "description_ar": "ظهرت أعمالها ضمن محتوى «I Am The Change» من نيوم.",
+      "description_en": "Her work was featured in NEOM's 'I Am The Change' content.",
+      "image": "artwork_large_work",
+      "source_id": "src-neom",
+      "featured": false,
+      "placeholder_color": "Indigo"
+    },
+    {
+      "id": "aw-adidas",
+      "title_ar": "تعاون مع Adidas",
+      "title_en": "Collaboration with Adidas",
+      "category": "collaboration",
+      "year": "",
+      "description_ar": "تعاون ضمن ملفها الفني، وُثّق في الصحافة المتخصصة.",
+      "description_en": "A collaboration documented in the specialized press.",
+      "image": "artwork_mural_painting",
+      "source_id": "src-grazia",
+      "featured": false,
+      "placeholder_color": "Cocoa"
+    },
+    {
+      "id": "aw-riyadh-beautification",
+      "title_ar": "مشاريع تجميل الرياض",
+      "title_en": "Riyadh Beautification Projects",
+      "category": "public_project",
+      "year": "",
+      "description_ar": "تعاونت مع جهات حكومية لتجميل الفضاءات العامة في الرياض ضمن تطبيقات عملية لأطروحتها الأكاديمية.",
+      "description_en": "Collaborated with government entities to beautify public spaces in Riyadh, applying her academic research in practice.",
+      "image": "artwork_large_work",
+      "source_id": "src-abouther",
+      "featured": false,
+      "placeholder_color": "Indigo"
+    }
+  ]
+}

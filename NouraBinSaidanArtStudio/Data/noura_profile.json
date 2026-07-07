@@ -1,0 +1,68 @@
+{
+  "profile": {
+    "id": "noura-bin-saidan",
+    "name_ar": "نورة بن سعيدان",
+    "name_en": "Noura Bin Saidan",
+    "tagline_ar": "فنانة بصرية سعودية متخصصة في فن الجداريات والغرافيتي والفن العام",
+    "tagline_en": "Saudi visual artist specializing in murals, graffiti and public art",
+    "short_bio_ar": "نورة بن سعيدان فنانة بصرية وسيدة أعمال سعودية متخصصة في فن الجداريات والغرافيتي والفن العام. حاصلة على درجة الماجستير في الفنون من جامعة الملك سعود، وتسعى لتوثيق الهوية الثقافية السعودية وتجميل الفضاءات العامة عبر الفن.",
+    "short_bio_en": "Noura Bin Saidan is a Saudi visual artist and businesswoman specializing in murals, graffiti and public art. She holds a Master's degree in the Arts from King Saud University and is dedicated to documenting Saudi cultural identity and beautifying public spaces through art.",
+    "specialties_ar": [
+      "فن الجداريات",
+      "الغرافيتي الراقي",
+      "الفن العام",
+      "التركيبات الفنية",
+      "تقنيات الفن"
+    ],
+    "specialties_en": [
+      "Murals",
+      "Refined Graffiti",
+      "Public Art",
+      "Installations",
+      "Art Technology"
+    ],
+    "education_ar": "درجة الماجستير في الفنون من جامعة الملك سعود",
+    "education_en": "Master's degree in the Arts from King Saud University",
+    "roles_ar": [
+      "نائب رئيس شعبة الفنون والعمارة بجمعية عمران",
+      "سفيرة جمعية حرفة",
+      "سفيرة جمعية شراكة"
+    ],
+    "roles_en": [
+      "Vice President of the Arts & Architecture Chapter at Umran Society",
+      "Ambassador of Hirfa Society",
+      "Ambassador of Sharaka Society"
+    ],
+    "location_ar": "الرياض، المملكة العربية السعودية",
+    "location_en": "Riyadh, Saudi Arabia",
+    "email": "info@nourabinsaidan.com",
+    "media_license": "782750",
+    "legal_representative_ar": "شركة محمد العقيل وشركاه للمحاماة",
+    "legal_representative_en": "Mohammed Al-Oqail & Partners Law Firm",
+    "studio": {
+      "name_ar": "استوديو نورة بن سعيدان للفنون",
+      "name_en": "Noura Bin Saidan Studio",
+      "district_ar": "حي جاكس (JAX District)، الدرعية",
+      "district_en": "JAX District, Diriyah",
+      "building": "J14",
+      "city_ar": "الرياض",
+      "city_en": "Riyadh",
+      "vision_ar": "مساحة أكثر من استوديو — مكان يُبدع فيه الناس، ويتواصلون، وينمون معاً.",
+      "vision_en": "More than a studio — a space where people create, connect and grow together.",
+      "activities_ar": [
+        "ورش السيراميك والنحت",
+        "دورات الرسم والتصوير",
+        "المعسكرات الصيفية الإبداعية",
+        "جلسات فنانين",
+        "فعاليات أسبوع الرياض للفنون"
+      ],
+      "activities_en": [
+        "Ceramics & Sculpture workshops",
+        "Drawing & Painting courses",
+        "Creative Summer Camps",
+        "Artists meet-ups",
+        "Art Week Riyadh events"
+      ]
+    }
+  }
+}

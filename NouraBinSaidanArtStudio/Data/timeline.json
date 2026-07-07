@@ -1,0 +1,78 @@
+{
+  "timeline": [
+    {
+      "id": "tl-2009",
+      "year": "2009",
+      "date_iso": "2009-01-01",
+      "title_ar": "الماجستير في الفنون من جامعة الملك سعود",
+      "title_en": "Master's in the Arts from King Saud University",
+      "description_ar": "حصلت على درجة الماجستير، وتناول بحثها دور الفن في تعزيز جمال المساحات الحضرية.",
+      "description_en": "Earned her Master's degree; her research explored art's role in enhancing urban spaces.",
+      "category": "education",
+      "source_id": "src-jax",
+      "verified": true
+    },
+    {
+      "id": "tl-2017",
+      "year": "2017",
+      "date_iso": "2017-01-01",
+      "title_ar": "التوجه نحو الفن العام",
+      "title_en": "Pivot to Public Art",
+      "description_ar": "اتجهت من مشهد المعارض التقليدية المغلقة إلى الفن العام وفن الشارع لإيصال الفن لجمهور أوسع.",
+      "description_en": "Moved from the conventional gallery scene toward public and street art to reach a wider audience.",
+      "category": "milestone",
+      "source_id": "src-abouther",
+      "verified": true
+    },
+    {
+      "id": "tl-boulevard",
+      "year": "",
+      "date_iso": null,
+      "title_ar": "جداريات بوليفارد سيتي",
+      "title_en": "City Boulevard Murals",
+      "description_ar": "أنجزت 16 جدارية ضخمة لشخصيات من الفنانين والمطربين من الشرق الأوسط ضمن «City Walk» في بوليفارد الرياض.",
+      "description_en": "Created 16 larger-than-life murals of prominent Middle Eastern artists and singers at City Walk, Riyadh Boulevard.",
+      "category": "artwork",
+      "source_id": "src-independent",
+      "verified": true
+    },
+    {
+      "id": "tl-2024-medal",
+      "year": "2024",
+      "date_iso": "2024-07-01",
+      "title_ar": "وسام الفنون والآداب الفرنسي برتبة فارس",
+      "title_en": "Knight of the French Order of Arts and Letters",
+      "description_ar": "منحها الرئيس الفرنسي إيمانويل ماكرون وسام الفنون والآداب برتبة فارس، وسلّمه السفير الفرنسي لودوفيك بوييه في السفارة الفرنسية بالرياض.",
+      "description_en": "Awarded the Knight rank of the French Order of Arts and Letters by President Emmanuel Macron; presented by French Ambassador Ludovic Pouille at the French Embassy in Riyadh.",
+      "category": "award",
+      "source_id": "src-spa",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "tl-2024-timcook",
+      "year": "2024",
+      "date_iso": "2024-12-09",
+      "title_ar": "زيارة تيم كوك لجداريتها في حي جاكس",
+      "title_en": "Tim Cook visits her mural at JAX District",
+      "description_ar": "استقبلت الرئيس التنفيذي لشركة Apple السيد تيم كوك عند جداريتها في حي جاكس بالدرعية، وشرحت له كيف توظف أدوات Apple في أعمالها الفنية.",
+      "description_en": "Welcomed Apple CEO Tim Cook at her mural in JAX District, Diriyah, and shared how she uses Apple tools in her creative process.",
+      "category": "milestone",
+      "source_id": "src-timcook",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "tl-jax-studio",
+      "year": "",
+      "date_iso": null,
+      "title_ar": "استوديو نورة بن سعيدان في حي جاكس",
+      "title_en": "Noura Bin Saidan Studio at JAX District",
+      "description_ar": "يقع الاستوديو في مبنى J14 بحي جاكس بالدرعية، ويشارك في برامج مؤسسة الدرعية البينالية مثل «On Foot with Nora Bin Saidan».",
+      "description_en": "Located in building J14 at JAX District, Diriyah, the studio participates in Diriyah Biennale Foundation programs such as 'On Foot with Nora Bin Saidan'.",
+      "category": "studio",
+      "source_id": "src-biennale",
+      "verified": true
+    }
+  ]
+}

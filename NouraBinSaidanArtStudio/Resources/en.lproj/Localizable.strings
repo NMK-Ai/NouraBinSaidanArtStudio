@@ -1,0 +1,117 @@
+/* Noura Bin Saidan Art Studio — English */
+
+// App
+"app.title" = "Noura Bin Saidan Art Studio";
+"app.subtitle" = "Public Art & Cultural Identity";
+
+// Nav tabs
+"nav.home" = "Home";
+"nav.gallery" = "Works";
+"nav.shop" = "Shop";
+"nav.more" = "More";
+
+// Splash
+"splash.tagline" = "Art that tells an identity";
+
+// Home sections
+"home.story" = "Story";
+"home.awards" = "Achievements";
+"home.works" = "Works";
+"home.products" = "Products";
+"home.workshops" = "Workshops";
+"home.opening" = "A Saudi visual artist carving identity onto walls, documenting memory with colors that speak to the world.";
+"home.explore" = "Explore";
+"home.timeline" = "Milestones";
+"home.studio" = "Studio";
+"home.services" = "Services";
+"home.contact" = "Contact";
+"home.news" = "News & Media";
+"home.about" = "About Noura";
+"home.featured" = "Featured";
+
+// About
+"about.title" = "About Noura";
+"about.bio" = "Biography";
+"about.style" = "Art Style";
+"about.specialties" = "Specialties";
+"about.roles" = "Roles";
+"about.education" = "Education";
+"about.mission" = "Mission";
+
+// Timeline
+"timeline.title" = "Milestones";
+"timeline.empty" = "No milestones.";
+
+// Awards
+"awards.title" = "Awards & Achievements";
+"awards.french" = "French Order of Arts and Letters";
+"awards.timcook" = "Meeting Tim Cook";
+"awards.granted" = "Granted by";
+"awards.presented" = "Presented by";
+"awards.location" = "Location";
+
+// Gallery
+"gallery.title" = "Works Gallery";
+"gallery.all" = "All";
+"gallery.empty" = "No works in this category.";
+"gallery.detail" = "Artwork detail";
+
+// Studio
+"studio.title" = "Studio";
+"studio.vision" = "Vision";
+"studio.activities" = "Activities";
+"studio.location" = "Location";
+
+// Products
+"products.title" = "Shop";
+"products.buy" = "Buy from official store";
+"products.soldout" = "Sold out";
+"products.from" = "from";
+"products.sar" = "SAR";
+
+// Services
+"services.title" = "Services & Workshops";
+"services.book" = "Book via WhatsApp";
+"services.bookHint" = "Opens the official WhatsApp chat";
+
+// News
+"news.title" = "News & Media";
+"news.intro" = "A curated selection of verified news sources and reports.";
+
+// Contact
+"contact.title" = "Contact";
+"contact.accounts" = "Official Accounts";
+"contact.email" = "Email";
+"contact.form" = "Quick contact form";
+"contact.name" = "Name";
+"contact.message" = "Message";
+"contact.send" = "Send";
+"contact.openMap" = "Open location in Maps";
+"contact.formHint" = "Opens your mail app with a message addressed to the studio.";
+
+// Common
+"common.viewAll" = "View all";
+"common.year" = "Year";
+"common.source" = "Source";
+"common.verified" = "Verified";
+"common.language" = "Language";
+"common.openLink" = "Open link";
+"common.loading" = "Loading…";
+"common.building" = "Building";
+"common.media_license" = "Media License";
+"common.legal" = "Legal";
+"common.arabic_lang" = "Arabic";
+"common.english_lang" = "English";
+"common.appearance" = "Appearance";
+
+// Home badge
+"home.boulevard_badge" = "City Boulevard";
+
+// Product types
+"type.workshop" = "Workshop";
+"type.course" = "Course";
+"type.camp" = "Camp";
+"type.merchandise" = "Merch";
+"type.print" = "Print";
+"type.book" = "Book";
+"type.event" = "Event";

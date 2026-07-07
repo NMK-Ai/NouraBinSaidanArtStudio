@@ -1,0 +1,92 @@
+{
+  "accounts": [
+    {
+      "id": "instagram-personal",
+      "platform": "Instagram",
+      "handle": "@nourabinsaidan",
+      "label_ar": "إنستغرام — حساب نورة",
+      "label_en": "Instagram — Noura",
+      "url": "https://www.instagram.com/nourabinsaidan/",
+      "icon": "camera.fill",
+      "category": "personal",
+      "verified": true
+    },
+    {
+      "id": "instagram-studio",
+      "platform": "Instagram",
+      "handle": "@studio_nourabinsaidan",
+      "label_ar": "إنستغرام — الاستوديو",
+      "label_en": "Instagram — Studio",
+      "url": "https://www.instagram.com/studio_nourabinsaidan/",
+      "icon": "camera.fill",
+      "category": "studio",
+      "verified": true
+    },
+    {
+      "id": "x",
+      "platform": "X",
+      "handle": "@Nourabinsaidan",
+      "label_ar": "إكس (تويتر)",
+      "label_en": "X (Twitter)",
+      "url": "https://x.com/Nourabinsaidan",
+      "icon": "bubble.left.fill",
+      "category": "personal",
+      "verified": true
+    },
+    {
+      "id": "tiktok",
+      "platform": "TikTok",
+      "handle": "@nourabinsaidan1",
+      "label_ar": "تيك توك",
+      "label_en": "TikTok",
+      "url": "https://www.tiktok.com/@nourabinsaidan1",
+      "icon": "music.note",
+      "category": "personal",
+      "verified": true
+    },
+    {
+      "id": "snapchat",
+      "platform": "Snapchat",
+      "handle": "@nourahbinsaidan",
+      "label_ar": "سناب شات",
+      "label_en": "Snapchat",
+      "url": "https://www.snapchat.com/@nourahbinsaidan",
+      "icon": "ghost.fill",
+      "category": "personal",
+      "verified": true
+    },
+    {
+      "id": "youtube",
+      "platform": "YouTube",
+      "handle": "Nourabinsaidan",
+      "label_ar": "يوتيوب",
+      "label_en": "YouTube",
+      "url": "https://www.youtube.com/channel/UCBzYORYq_WVwJkGjQPDl1ew",
+      "icon": "play.rectangle.fill",
+      "category": "personal",
+      "verified": true
+    },
+    {
+      "id": "store",
+      "platform": "Website",
+      "handle": "nsartstore.com",
+      "label_ar": "المتجر الرسمي",
+      "label_en": "Official Store",
+      "url": "https://nsartstore.com/latest-products",
+      "icon": "cart.fill",
+      "category": "store",
+      "verified": true
+    },
+    {
+      "id": "linkedin",
+      "platform": "LinkedIn",
+      "handle": "ns4art",
+      "label_ar": "لينكدإن — ns4art",
+      "label_en": "LinkedIn — ns4art",
+      "url": "https://www.linkedin.com/company/ns4art",
+      "icon": "person.crop.square.fill",
+      "category": "studio",
+      "verified": true
+    }
+  ]
+}

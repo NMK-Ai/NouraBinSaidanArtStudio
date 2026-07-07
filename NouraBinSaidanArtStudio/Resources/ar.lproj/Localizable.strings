@@ -1,0 +1,117 @@
+/* Noura Bin Saidan Art Studio — Arabic */
+
+// App
+"app.title" = "استوديو نورة بن سعيدان للفنون";
+"app.subtitle" = "فن عام وهوية ثقافية";
+
+// Nav tabs
+"nav.home" = "الرئيسية";
+"nav.gallery" = "الأعمال";
+"nav.shop" = "المتجر";
+"nav.more" = "المزيد";
+
+// Splash
+"splash.tagline" = "فنّ يحكي هوية";
+
+// Home sections
+"home.story" = "القصة";
+"home.awards" = "الإنجازات";
+"home.works" = "الأعمال";
+"home.products" = "المنتجات";
+"home.workshops" = "الورش";
+"home.opening" = "فنانة بصرية سعودية تنحت الهوية على الجدران، وتوثّق الذاكرة بألوان تتحدث العالمية.";
+"home.explore" = "استكشف";
+"home.timeline" = "المحطات";
+"home.studio" = "الاستوديو";
+"home.services" = "الخدمات";
+"home.contact" = "تواصل";
+"home.news" = "الأخبار والإعلام";
+"home.about" = "عن نورة";
+"home.featured" = "مميّز";
+
+// About
+"about.title" = "عن نورة";
+"about.bio" = "السيرة";
+"about.style" = "الأسلوب الفني";
+"about.specialties" = "التخصصات";
+"about.roles" = "الأدوار والمثول";
+"about.education" = "المؤهل";
+"about.mission" = "الرسالة";
+
+// Timeline
+"timeline.title" = "المحطات";
+"timeline.empty" = "لا توجد محطات.";
+
+// Awards
+"awards.title" = "الجوائز والإنجازات";
+"awards.french" = "وسام الفنون والآداب الفرنسي";
+"awards.timcook" = "لقاء تيم كوك";
+"awards.granted" = "بموجب";
+"awards.presented" = "سلّمه";
+"awards.location" = "المكان";
+
+// Gallery
+"gallery.title" = "معرض الأعمال";
+"gallery.all" = "الكل";
+"gallery.empty" = "لا توجد أعمال في هذا التصنيف.";
+"gallery.detail" = "تفاصيل العمل";
+
+// Studio
+"studio.title" = "الاستوديو";
+"studio.vision" = "الرؤية";
+"studio.activities" = "الأنشطة";
+"studio.location" = "الموقع";
+
+// Products
+"products.title" = "المتجر";
+"products.buy" = "شراء من المتجر الرسمي";
+"products.soldout" = "نفدت الكمية";
+"products.from" = "تبدأ من";
+"products.sar" = "ر.س";
+
+// Services
+"services.title" = "الخدمات والورش";
+"services.book" = "احجز عبر واتساب";
+"services.bookHint" = "يفتح محادثة واتساب الرسمية";
+
+// News
+"news.title" = "الأخبار والإعلام";
+"news.intro" = "مجموعة مختارة من المصادر الإخبارية والتقارير الموثّقة.";
+
+// Contact
+"contact.title" = "تواصل";
+"contact.accounts" = "الحسابات الرسمية";
+"contact.email" = "البريد";
+"contact.form" = "نموذج تواصل مبدئي";
+"contact.name" = "الاسم";
+"contact.message" = "الرسالة";
+"contact.send" = "إرسال";
+"contact.openMap" = "افتح الموقع على الخرائط";
+"contact.formHint" = "يفتح تطبيق البريد لديك برسالة موجّهة للاستوديو.";
+
+// Common
+"common.viewAll" = "عرض الكل";
+"common.year" = "السنة";
+"common.source" = "المصدر";
+"common.verified" = "موثّق";
+"common.language" = "اللغة";
+"common.openLink" = "فتح الرابط";
+"common.loading" = "جارٍ التحميل…";
+"common.building" = "المبنى";
+"common.media_license" = "الترخيص الإعلامي";
+"common.legal" = "الجهة القانونية";
+"common.arabic_lang" = "العربية";
+"common.english_lang" = "الإنجليزية";
+"common.appearance" = "المظهر";
+
+// Home badge
+"home.boulevard_badge" = "بوليفارد سيتي";
+
+// Product types
+"type.workshop" = "ورشة";
+"type.course" = "دورة";
+"type.camp" = "مصيف";
+"type.merchandise" = "منتج";
+"type.print" = "مطبوعة";
+"type.book" = "كتاب";
+"type.event" = "فعالية";

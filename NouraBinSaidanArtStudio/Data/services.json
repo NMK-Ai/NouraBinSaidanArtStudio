@@ -1,0 +1,61 @@
+{
+  "whatsapp": "9619971313",
+  "whatsapp_display_ar": "تواصل عبر واتساب",
+  "whatsapp_display_en": "Contact via WhatsApp",
+  "services": [
+    {
+      "id": "svc-ceramic-sculpt",
+      "name_ar": "ورش السيراميك والنحت",
+      "name_en": "Ceramics & Sculpture Workshops",
+      "description_ar": "ورش احترافية في النمذجة اليدوية للسيراميك والنحت بحي جاكس.",
+      "description_en": "Professional ceramic handbuilding and sculpture workshops at JAX District.",
+      "icon": "hammer.fill",
+      "source_id": "src-tiktok"
+    },
+    {
+      "id": "svc-drawing-courses",
+      "name_ar": "دورات الرسم",
+      "name_en": "Drawing & Painting Courses",
+      "description_ar": "دورات تشمل الطبيعة الصامتة، الإيربرش، وأساسيات الرسم.",
+      "description_en": "Courses covering still life, airbrush, and the fundamentals of drawing.",
+      "icon": "paintbrush.fill",
+      "source_id": "src-store"
+    },
+    {
+      "id": "svc-make-your-cup",
+      "name_ar": "ورش اصنع كوبك",
+      "name_en": "Make-Your-Own-Cup Workshops",
+      "description_ar": "ورش لتخصيص الأكواب يدوياً مع فنانين ضيوف.",
+      "description_en": "Workshops to hand-customize cups with guest artists.",
+      "icon": "cup.and.saucer.fill",
+      "source_id": "src-instagram"
+    },
+    {
+      "id": "svc-summer-camp",
+      "name_ar": "المعسكر الصيفي الإبداعي",
+      "name_en": "Creative Summer Camp",
+      "description_ar": "برنامج صيفي يجمع الفن واللغة للناشئة.",
+      "description_en": "A summer program where art meets language for youth.",
+      "icon": "sun.max.fill",
+      "source_id": "src-jax"
+    },
+    {
+      "id": "svc-corporate",
+      "name_ar": "فعاليات الشركات والتعاونات",
+      "name_en": "Corporate Events & Collaborations",
+      "description_ar": "تعاونات وتجارب فنية مخصصة للجهات والشركات.",
+      "description_en": "Custom art experiences and collaborations for organizations.",
+      "icon": "briefcase.fill",
+      "source_id": "src-linkedin"
+    },
+    {
+      "id": "svc-murals",
+      "name_ar": "مشاريع الجداريات العامة",
+      "name_en": "Public Mural Projects",
+      "description_ar": "تنفيذ جداريات وأعمال فنية واسعة النطاق في الفضاءات العامة عبر ns4art.",
+      "description_en": "Large-scale murals and artworks in public spaces via ns4art.",
+      "icon": "building.columns.fill",
+      "source_id": "src-linkedin"
+    }
+  ]
+}
