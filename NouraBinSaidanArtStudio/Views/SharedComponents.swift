@@ -42,16 +42,19 @@ struct ArtImage: View {
     var contentMode: ContentMode = .fill
 
     var body: some View {
-        Group {
-            if let uiImage = UIImage(named: assetName), !assetName.isEmpty {
-                Image(uiImage: uiImage)
-                    .resizable()
-                    .aspectRatio(contentMode: contentMode)
-            } else {
-                MuralPlaceholder(baseColor: fallbackColor, title: title)
+        // Color.clear adopts the proposed size, so the fill-mode image can
+        // never widen the tile beyond its grid cell before clipping.
+        Color.clear
+            .overlay {
+                if let uiImage = UIImage(named: assetName), !assetName.isEmpty {
+                    Image(uiImage: uiImage)
+                        .resizable()
+                        .aspectRatio(contentMode: contentMode)
+                } else {
+                    MuralPlaceholder(baseColor: fallbackColor, title: title)
+                }
             }
-        }
-        .clipped()
+            .clipped()
     }
 }
 

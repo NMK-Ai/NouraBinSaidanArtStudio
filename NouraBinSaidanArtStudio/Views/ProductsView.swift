@@ -65,6 +65,7 @@ struct ProductCard: View {
         VStack(alignment: .leading, spacing: 0) {
             ZStack(alignment: .topTrailing) {
                 ArtImage(assetName: product.image ?? "", fallbackColor: Palette.placeholder(named: product.placeholderColor))
+                    .frame(maxWidth: .infinity)
                     .frame(height: 150)
                 if !product.available {
                     Text(L("products.soldout"))

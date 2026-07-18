@@ -86,12 +86,10 @@ struct GalleryView: View {
                 Text(art.title(for: lang))
                     .font(.subheadline.weight(.semibold))
                     .foregroundStyle(Palette.ink)
-                    .lineLimit(2)
-                if !art.year.isEmpty {
-                    Text(art.year)
-                        .font(AppTheme.monoCaption)
-                        .foregroundStyle(.secondary)
-                }
+                    .lineLimit(2, reservesSpace: true)
+                Text(art.year.isEmpty ? " " : art.year)
+                    .font(AppTheme.monoCaption)
+                    .foregroundStyle(.secondary)
             }
             .padding(10)
             .frame(maxWidth: .infinity, alignment: .leading)

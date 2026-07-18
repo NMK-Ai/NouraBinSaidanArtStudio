@@ -181,6 +181,12 @@ struct ArtworksData: Codable {
     let categoriesAr: [String: String]
     let categoriesEn: [String: String]
     let artworks: [Artwork]
+
+    enum CodingKeys: String, CodingKey {
+        case artworks
+        case categoriesAr = "categories_ar"
+        case categoriesEn = "categories_en"
+    }
 }
 
 struct Artwork: Codable, Identifiable, Hashable {

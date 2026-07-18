@@ -11,12 +11,18 @@ settings:
     SWIFT_VERSION: "5.9"
     IPHONEOS_DEPLOYMENT_TARGET: "17.0"
     MARKETING_VERSION: "1.0"
-    CURRENT_PROJECT_VERSION: "1"
-    DEVELOPMENT_TEAM: ""
+    CURRENT_PROJECT_VERSION: "2"
+    DEVELOPMENT_TEAM: "33MXQ7RFQL"
     CODE_SIGN_STYLE: Automatic
     TARGETED_DEVICE_FAMILY: "1"
-    ENABLE_USER_SCRIPT_SANDBOXING: NO
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    ALWAYS_SEARCH_USER_PATHS: NO
+    CLANG_ENABLE_MODULES: YES
+    CLANG_ENABLE_OBJC_ARC: YES
+    COPY_PHASE_STRIP: NO
+    DEAD_CODE_STRIPPING: YES
     GENERATE_INFOPLIST_FILE: YES
+
 
 targets:
   NouraBinSaidanArtStudio:
@@ -43,6 +49,9 @@ targets:
           UIColorName: ""
         UISupportedInterfaceOrientations:
           - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+        UIRequiresFullScreen: true
+        CFBundleIconName: AppIcon
         UIApplicationSceneManifest:
           UIApplicationSupportsMultipleScenes: false
         NSAppTransportSecurity:
